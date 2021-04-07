@@ -1,4 +1,4 @@
-//links
+//Reference links
 //http://eloquentjavascript.net/09_regexp.html
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
 
@@ -25,16 +25,7 @@ function chatbotResponse() {
     botMessage = 'My name is ' + botName;
   }
 }
-//****************************************************************
-//****************************************************************
-//****************************************************************
-//****************************************************************
-//****************************************************************
-//****************************************************************
-//****************************************************************
-//
-//
-//
+
 //this runs each time enter is pressed.
 //It controls the overall input and output
 function newEntry() {
